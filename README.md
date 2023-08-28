@@ -33,6 +33,11 @@ If Docker and Docker Compose are installed follow the steps below:
 - You can watch the log files 
 
 
+![Alt text](images/airflow.JPG)
+
+![Alt text](images/DAG.JPG)
+
+![Alt text](images/graph.JPG)
 
 
 ## Documentation
